@@ -1,3 +1,4 @@
+
 /*
    Given a string containing just the characters '(' and ')', find the length of the longest valid (well-formed) parentheses substring.
    For "(()", the longest valid parentheses substring is "()", which has length = 2.
@@ -5,6 +6,7 @@
    Subscribe to see which companies asked this question
  */
 
+package algorithms;
 import java.util.Stack;
 
 public class Longest_Valid_Parentheses {
